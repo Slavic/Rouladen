@@ -8,4 +8,4 @@ This project is licensed under the GNU General Public License
 
 ## Acknowledgments
 
-* [Guided Hacking](guidedhacking.com/)
+* [Guided Hacking](https://guidedhacking.com/)
